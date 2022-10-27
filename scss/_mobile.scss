@@ -1,0 +1,13 @@
+@media only screen and (max-width: 700px) and (min-width: 100px) {
+  .showcase {
+    height: 400px;
+
+    &-content {
+      text-align: center;
+
+      img {
+        display: none;
+      }
+    }
+  }
+}
